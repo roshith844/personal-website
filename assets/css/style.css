@@ -1119,6 +1119,13 @@ main {
   font-weight: var(--fw-300);
 }
 
+.project-github-image{
+ height: 2rem;
+ width: auto;
+ margin-left: 10px;
+ margin-top: 10px;
+}
+
 
 
 
